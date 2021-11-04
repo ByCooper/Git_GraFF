@@ -1,0 +1,5 @@
+firstname: "Kupriyanov"
+lastname: "Anatoly"
+age: "31 years"
+pets: "none"
+salary: "1500"
