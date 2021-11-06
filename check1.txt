@@ -1,0 +1,5 @@
+1) create a file
+2) edit
+3) save changes
+4) upload to the branch
+5) upload to the main branch
