@@ -1,5 +1,5 @@
 "favorite movie": "from paris with love"
 "favorite tv series": "scrubs"
-"favorite meal": "shaurma"
+"favorite meal": "shavuha"
 "favorite time of the year": "spring"
 "what country do I want to visit": "France"
